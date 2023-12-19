@@ -1,4 +1,48 @@
-### Hi there 👋
+## Hi there 👋
+
+&nbsp;
+
+My name is Conrad, and I currently serve as a Senior Software Engineer for Wells Fargo. 
+
+&nbsp;
+
+🔭 I’m currently working on (personal projects)
+- React + Spring Boot sports application 
+- Typescript learning project
+- Helping more people on LinkedIn
+
+&nbsp;
+
+🌱 I’m currently learning ...
+- Advanced ReactJS concepts and patterns
+- Java + Spring Boot
+- TypeScript
+- Engineering Leadership
+
+&nbsp;
+
+🔙 Some of my previous eng. roles include
+- Tech Lead @ USAA
+- Web Developer/Sole Proprietor
+- IT Manager
+- Network/Communications Engineer
+
+&nbsp;
+
+💬 Ask me about
+- Web Development
+- Javascript/React
+- Military Life
+
+&nbsp;
+
+⚡ Fun fact:
+- I used to teach 6th grade students 👨🏽‍🏫👨
+
+&nbsp;
+
+📫 How to reach me:
+- 
 
 <!--
 **cbituin/cbituin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
