@@ -13,7 +13,7 @@ My name is Conrad, and I currently serve as a Senior Software Engineer for Wells
 
 &nbsp;
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning
 - Advanced ReactJS concepts and patterns
 - Java + Spring Boot
 - TypeScript
@@ -21,7 +21,7 @@ My name is Conrad, and I currently serve as a Senior Software Engineer for Wells
 
 &nbsp;
 
-🔙 Some of my previous eng. roles include
+🔙 Some of my previous roles include
 - Tech Lead @ USAA
 - Web Developer/Sole Proprietor
 - IT Manager
@@ -36,12 +36,12 @@ My name is Conrad, and I currently serve as a Senior Software Engineer for Wells
 
 &nbsp;
 
-⚡ Fun fact:
+⚡ Fun fact
 - I used to teach 6th grade students 👨🏽‍🏫👨
 
 &nbsp;
 
-📫 How to reach me:
+📫 How to reach me
 - [Find me on LinkedIn!](https://www.linkedin.com/in/conradbituin/)
 
 <!--
