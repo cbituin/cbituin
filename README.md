@@ -42,7 +42,7 @@ My name is Conrad, and I currently serve as a Senior Software Engineer for Wells
 &nbsp;
 
 📫 How to reach me:
-- 
+- [Find me on LinkedIn!](https://www.linkedin.com/in/conradbituin/)
 
 <!--
 **cbituin/cbituin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
