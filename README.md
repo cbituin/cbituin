@@ -22,7 +22,8 @@ My name is Conrad, and I currently serve as a Senior Software Engineer for Wells
 &nbsp;
 
 🔙 Some of my previous roles include
-- Tech Lead @ USAA
+- Tech Lead
+- Front End Dev
 - Web Developer/Sole Proprietor
 - IT Manager
 - Network/Communications Engineer
